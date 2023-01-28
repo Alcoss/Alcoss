@@ -2,7 +2,7 @@
 
 ![Alcoss's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?theme=nord&user=Alcoss&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarush-narang&layout=compact&theme=nord&hide_border=true)](https://github.com/Alcoss/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alcossg&layout=compact&theme=nord&hide_border=true)](https://github.com/Alcoss/github-readme-stats)
 
 
 ![](https://komarev.com/ghpvc/?username=Alcoss)
